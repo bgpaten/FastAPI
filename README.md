@@ -1,4 +1,4 @@
-<h1 align="center">Quiz API</h1>
+<h1 align="center">Fast API</h1>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
