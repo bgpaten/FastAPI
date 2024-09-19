@@ -3,7 +3,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,](https://skillicons.dev/icons?i=mysql,fastapi,python,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,fastapi,python,mongodb" />
 </div>
 
 ## Overview
